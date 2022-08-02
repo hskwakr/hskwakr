@@ -1,4 +1,16 @@
-### Hi there 👋
+### About Me👋
+
+[![hskwakr's GitHub stats](https://github-readme-stats.vercel.app/api?username=hskwakr&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hskwakr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Featured Repositories⚡
+[![albamn](https://github-readme-stats.vercel.app/api/pin/?username=hskwakr&repo=albamn)](https://github.com/hskwakr/albamn)
+
+[![todayfile](https://github-readme-stats.vercel.app/api/pin/?username=hskwakr&repo=todayfile)](https://github.com/hskwakr/todayfile)
+
+
+
 
 <!--
 **hskwakr/hskwakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
