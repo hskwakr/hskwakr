@@ -1,6 +1,6 @@
 ### About Me👋
 
-[![hskwakr's GitHub stats](https://github-readme-stats-b6iwemjov-hskwakr.vercel.app/api?username=hskwakr&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![hskwakr's GitHub stats](https://github-readme-stats-hskwakr.vercel.app/api?username=hskwakr&count_private=true&show_icons=true)](https://github.com/hskwakr/github-readme-stats)
 
 <!--
 **hskwakr/hskwakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
